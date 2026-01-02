@@ -26,7 +26,7 @@ Analysed suspected phishing emails to determine legitimacy and identify indicato
 
 ### **Email Analysis**
 
-<img width="773" height="588" alt="image" src="https://github.com/user-attachments/assets/22d3be69-59a7-4db5-b8d2-272b78d88d9c" />
+<img width="1229" height="838" alt="Malicious Email Links Analysis" src="https://github.com/user-attachments/assets/d040d392-4b6f-48e4-9610-c3f5f200e8d2" />
 
 ## 🧰 **Tools Used**
 
